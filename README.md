@@ -7,7 +7,7 @@ This project simulates a real-world hospital management system using SQL. It inc
 - Views and advanced SQL queries
 
 ## 🔧 Technologies
-- MySQL (or PostgreSQL)
+- MS SQL Server
 - SQL: Joins, Views, Subqueries, Window Functions
 
 ## 📁 Files
